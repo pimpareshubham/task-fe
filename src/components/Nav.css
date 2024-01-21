@@ -1,0 +1,15 @@
+.nav-back-ground{
+    position: relative;
+    background: rgba(255, 255, 255, 0.2); /* Adjust the alpha value for transparency */
+    border-radius: 10px;
+    backdrop-filter: blur(30px); /* Adjust the blur value as needed */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle box shadow */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white; /* Set text color to be visible on the background */
+}
+
+.nav-item-color{
+    color: white;
+}

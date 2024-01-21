@@ -1,0 +1,7 @@
+.homepage{
+    min-height: 90vh;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

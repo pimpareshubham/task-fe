@@ -1,0 +1,21 @@
+.dashboard-container{
+    min-height: 100vh;
+}
+
+.m {
+    position: relative;
+    background: rgba(255, 255, 255, 0.2); /* Adjust the alpha value for transparency */
+    border-radius: 10px;
+    backdrop-filter: blur(10px); /* Adjust the blur value as needed */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Add a subtle box shadow */
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    color: white; /* Set text color to be visible on the background */
+    /* background-image: url("https://cdn.pixabay.com/photo/2024/01/17/20/45/ai-generated-8515714_1280.jpg"); */
+   
+  }
+
+  .not-logged-in{
+    min-height: 90vh;
+  }
